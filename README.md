@@ -108,7 +108,11 @@ Check out the live version of the project [here](https://chatbot-cdp-slj7.vercel
 
 Below is a preview of the chatbot interface:
 
+![Screenshot 2025-01-14 193249](https://github.com/user-attachments/assets/9e252139-0f96-4d12-8ad3-66a2857ab9c3)
 
+![Screenshot 2025-01-14 193305](https://github.com/user-attachments/assets/f1da1e78-e8c9-4d6f-ab64-e609ac568a24)
+
+![Screenshot 2025-01-14 190309](https://github.com/user-attachments/assets/695e2ddb-d2be-46a8-a300-32733bdbdc5e)
 
 ---
 
