@@ -72,8 +72,8 @@ To build an intelligent chatbot that:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cdp-chatbot.git
-   cd cdp-chatbot
+   [git clone https://github.com/LucifeRsKingdoM/Chatbot-CDP.git
+   cd cdp-chatbot]
    ```
 2. Install dependencies:
    ```bash
@@ -93,7 +93,7 @@ To build an intelligent chatbot that:
    ```
 4. Open your browser and visit:
    ```
-   http://localhost:3000
+   http://localhost:9000
    ```
 
 ---
