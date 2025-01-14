@@ -100,7 +100,7 @@ To build an intelligent chatbot that:
 
 ## **Live Preview**
 
-Check out the live version of the project [here]([https://chatbot-cdp-slj7.vercel.app/]).
+Check out the live version of the project [here](https://chatbot-cdp-slj7.vercel.app/).
 
 ---
 
