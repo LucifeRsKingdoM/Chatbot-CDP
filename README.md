@@ -4,6 +4,9 @@ Welcome to the **Support Agent Chatbot for CDP** project! This chatbot is design
 
 ## **Project Overview**
 
+![Screenshot 2025-03-03 200922](https://github.com/user-attachments/assets/7e6a12b8-ad3a-43cb-95ab-de1142688d4c), ![Screenshot 2025-03-03 200922](https://github.com/user-attachments/assets/a6e5dd4e-ead9-4b59-ac48-5916ca0665f0), ![Screenshot 2025-03-03 201003](https://github.com/user-attachments/assets/cc94b5c7-ec3f-4145-bfd4-34af60a51d24)
+
+
 ### **Objective**
 
 To build an intelligent chatbot that:
