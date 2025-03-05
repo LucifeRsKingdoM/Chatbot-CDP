@@ -46,27 +46,32 @@ To build an intelligent chatbot that:
 
 ---
 
-## **Languages and Tools Used**
+## 🛠️ Technologies Used  
 
-- **React** (Frontend)
-- **Vite** (Build Tool)
-- **TypeScript** (Type Safety)
-- **Lucide-react** (Icons and Components)
-- **Backend** (node server)
-- **Database** (MySQL)
+### **Frontend (Client) 🎨**  
+✅ **React.js** ⚛️  
+✅ **Tailwind CSS** 🎨 (for beautiful UI)  
+✅ **Framer Motion** ✨ (for smooth animations)  
+✅ **Axios** 🔄 (for API calls)  
+✅ **React Toastify** 🍞 (for notifications)  
 
----
+### **Backend (Server) 🖥️**  
+✅ **Node.js & Express.js** 🚀  
+✅ **MySQL** 🛢️ (as the database instead of MongoDB)  
+✅ **Sequelize ORM** 🗄️ (for database interactions)  
+✅ **bcrypt.js** 🔐 (for password hashing)  
+✅ **jsonwebtoken (JWT)** 🛡️ (for authentication)  
+✅ **CORS & dotenv** 🌐 (for security & environment variables)  
+
+### **Other Tools 🛠️**  
+✅ **Concurrently** 🏃‍♂️ (to run frontend & backend in one command)  
 
 ## **How It Works**
 
 1. **User Interaction**: Users can type their "how-to" questions into the chatbot interface.
 2. **Processing**: The chatbot interprets the query and identifies the relevant platform (Segment, mParticle, Lytics, or Zeotap).
 3. **Information Retrieval**: It fetches the corresponding section of the official documentation and extracts the required steps or guidance.
-4. **Response**: The chatbot displays the extracted information in a user-friendly format.
-
----
-
-Note : I used Backend server and MySQL Database only for Login Authentication System
+4. **Response**: The chatbot displays the extracted information in a user-friendly forma
 
 ## **How to Run**
 
@@ -93,6 +98,7 @@ Note : I used Backend server and MySQL Database only for Login Authentication Sy
 3. Start the development server:
    ```bash
    npm run dev
+   node server.js
    ```
    or
    ```bash
