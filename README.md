@@ -64,6 +64,8 @@ To build an intelligent chatbot that:
 
 ---
 
+Note : I used Backend server and MySQL Database only for Login Authentication System
+
 ## **How to Run**
 
 ### Prerequisites
