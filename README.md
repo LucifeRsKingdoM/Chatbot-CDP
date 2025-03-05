@@ -52,6 +52,8 @@ To build an intelligent chatbot that:
 - **Vite** (Build Tool)
 - **TypeScript** (Type Safety)
 - **Lucide-react** (Icons and Components)
+- **Backend** (node server)
+- **Database** (MySQL)
 
 ---
 
