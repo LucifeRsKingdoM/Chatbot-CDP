@@ -1,0 +1,26 @@
+-- Create Database
+CREATE DATABASE Chat_db;
+USE Chat_db;
+
+-- Users Table
+CREATE TABLE Users (
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Chatbot Responses Table
+CREATE TABLE ChatbotResponses (
+    response_id INT AUTO_INCREMENT PRIMARY KEY,
+    keywords TEXT NOT NULL,
+    response TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Sample Responses
+INSERT INTO ChatbotResponses (keywords, response) VALUES
+('hello,hi,hey', 'Hello! How can I assist you today?'),
+('help,support,issue', 'Sure! Please describe your issue, and I will do my best to help you.'),
+('order,status,track', 'To track your order, please provide your order number.'),
+('thank you,thanks', 'You're welcome! Let me know if you need anything else.');
